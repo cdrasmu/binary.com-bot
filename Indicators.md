@@ -12,3 +12,13 @@ Download: https://raw.githubusercontent.com/binary-ex-machina/binary.com-bot/mas
 More Info: https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/hull-moving-average<br>
 Download: https://raw.githubusercontent.com/binary-ex-machina/binary.com-bot/master/indicators/hullma/hullma.xml
 ![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/hullma/hullma.png)
+
+# True Range
+More info: http://www.macroption.com/true-range/<br>
+Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/tr/truerange.xml
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/tr/truerange.png)
+
+# Average True Range
+More info: https://www.investopedia.com/terms/a/atr.asp<br>
+Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/atr/atr.xml
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/atr/atr.png)

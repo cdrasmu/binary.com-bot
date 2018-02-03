@@ -32,3 +32,12 @@ Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indica
 More info: https://www.investopedia.com/terms/p/ppo.asp<br>
 Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/price_oscilator/po.xml
 ![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/price_oscilator/po.png)
+
+# Awesome Oscilator
+More info: https://www.tradingview.com/wiki/Awesome_Oscillator_(AO)<br>
+Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/awesome_oscilator/ao.xml
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/awesome_oscilator/ao.png)
+
+
+
+

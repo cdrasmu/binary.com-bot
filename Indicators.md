@@ -27,3 +27,8 @@ Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indica
 More info: https://www.investopedia.com/terms/s/stochasticoscillator.asp<br>
 Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stochastic.xml
 ![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stoch.png)
+
+# Price Oscilator
+More info: https://www.investopedia.com/terms/p/ppo.asp<br>
+Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/price_oscilator/po.xml
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/price_oscilator/po.png)

@@ -22,3 +22,8 @@ Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indica
 More info: https://www.investopedia.com/terms/a/atr.asp<br>
 Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/atr/atr.xml
 ![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/atr/atr.png)
+
+# Stochastic
+More info: https://www.investopedia.com/terms/s/stochasticoscillator.asp<br>
+Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stochastic.xml
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stoch.png)

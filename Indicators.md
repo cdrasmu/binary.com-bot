@@ -41,7 +41,7 @@ Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indica
 # Stochastic
 More info: https://www.investopedia.com/terms/s/stochasticoscillator.asp<br>
 Download: https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stochastic.xml
-![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stoch.png)
+![](https://github.com/binary-ex-machina/binary.com-bot/blob/master/indicators/stochastic/stochastic.png)
 
 # Triple MA
 More info: https://www.investopedia.com/terms/t/triple-exponential-moving-average.asp<br>

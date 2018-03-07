@@ -102,5 +102,15 @@
     <li>Martingale</li>
 </ul>
 
+<b><h2>#9 High Accuracy Rate</h2></b>
+<h4><b>See in Action:<a href="https://www.youtube.com/watch?v=F75P9Qg3PuQ">https://www.youtube.com/watch?v=F75P9Qg3PuQ</a></b> </h4>
+<h5><b>Download:<a href="https://github.com/binary-ex-machina/binary.com-bot/blob/master/bots/9-high-success.xml">https://github.com/binary-ex-machina/binary.com-bot/blob/master/bots/9-high-success.xml</a></b> </h5>
+<p>It enters the trade when the signals cross up (touch +2) or down (touch -2). As you can see in the video, you will have around 12 trades in 40min. In the video all of them are success, but you can aim for 7 wins / 1 loss and still profit from it.</p>
+<p><b>Indicators</b></p>
+<ul>
+    <li>WMA</li>
+    <li>SMA</li>
+</ul>
 
-<h4>Updates coming...</h4>
+
+<h4>Updates are coming...</h4>
